@@ -1,0 +1,14 @@
+name: busy_model
+version: 1.0.0+0
+description: Provides scoped_model for busy app with progress indicators
+author: Green Appers, Inc. <greenappers@gmail.com>
+homepage: https://github.com/GreenAppers/busy_model
+documentation: https://github.com/GreenAppers/busy_model/wiki
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  scoped_model: ^1.0.1
